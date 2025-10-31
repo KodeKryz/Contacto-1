@@ -1,2 +1,4 @@
 django
 gunicorn
+pyrhon-dotenv
+psycopg2
